@@ -1,1 +1,1 @@
-# DSA-C
+Some Popular Data structures / Algorithms implemented using C
